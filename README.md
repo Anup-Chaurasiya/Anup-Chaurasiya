@@ -8,7 +8,6 @@
 <p align="center">
   <a href="mailto:anupchaurasiya81@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/anupchaurasiya/">LinkedIn</a> •
-  <a href="https://github.com/anup-chaurasiya">GitHub</a> •
   <a href="https://portfolio.twerz.com/">Portfolio</a>
 </p>
 
