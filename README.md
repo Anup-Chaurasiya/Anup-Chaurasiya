@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anup Chaurasiya 👋</h1>
 
 <h3 align="center">
-  AI Full-Stack Engineer building production AI products, real-time voice AI,
+  Full-Stack AI Engineer building production AI products, real-time voice AI,
   RAG systems, agent workflows, and scalable SaaS platforms.
 </h3>
 
@@ -48,10 +48,10 @@ These days, I am especially interested in making AI products **reliable, useful,
 **[SkillMoksha](https://skillmoksha.ai/) - AI Hiring Platform**
 
 - Built the complete AI candidate pipeline end-to-end: resume upload, LLM scoring, and automated interview scheduling.
-- Reduced manual recruiter effort by **60%** and cut time-to-shortlist from days to hours.
+- Reduced manual recruiter effort by **75%** and cut time-to-shortlist from days to hours.
 - Engineered real-time AI voice interviews with **LiveKit**, speech-to-text, LLM-driven interview orchestration, transcript generation, automated evaluation, and object detection for proctoring.
 - Built Celery + Redis async pipelines handling **100+ concurrent jobs** for resume parsing, AI scoring, and timed email reminders.
-- Reduced pipeline latency by **70%** and improved interview attendance by reducing no-shows by **40%**.
+- Reduced pipeline latency by **30%** and improved interview attendance by reducing no-shows by **40%**.
 - Designed scalable GraphQL APIs and REST endpoints with response times under **200ms**.
 
 **[Upsellity AI](https://www.upsellity.com/) - Production E-commerce SaaS**
@@ -69,7 +69,7 @@ These days, I am especially interested in making AI products **reliable, useful,
 
 **Next.js • FastAPI • PostgreSQL • LangChain • Docker • Redis • Google OAuth • Razorpay**
 
-- Founded and launched a production AI career SaaS used by **30+ job seekers**.
+- Founded and launched a production AI career SaaS used by **10+ job seekers**.
 - Built workflows for JD analysis, resume tailoring, ATS scoring, PDF/DOCX resume generation, and job application tracking.
 - Engineered an evidence-grounded LLM pipeline that prevents fabricated skills, experience, and achievements in AI-generated resumes.
 - Designed secure backend systems with FastAPI, PostgreSQL, background workers, Google OAuth/JWT auth, Razorpay payments, and monitoring.
