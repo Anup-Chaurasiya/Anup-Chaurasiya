@@ -21,7 +21,7 @@
 
 ## About Me
 
-I am an **AI Full-Stack Engineer** focused on shipping real products end-to-end - from idea, architecture, and backend systems to clean user experiences and production deployment.
+I am a **Full-Stack AI Engineer** focused on shipping real products end-to-end - from idea, architecture, and backend systems to clean user experiences and production deployment.
 
 I have built and launched AI-powered platforms across hiring, career automation, and e-commerce, including **SkillMoksha**, **Twerz**, and **Upsellity AI**. My work spans LLM pipelines, real-time voice interviews, RAG workflows, AI agents, GraphQL/REST APIs, distributed background jobs, authentication, payments, and production monitoring.
 
@@ -41,11 +41,9 @@ These days, I am especially interested in making AI products **reliable, useful,
 
 ## Experience
 
-### AI Full-Stack Engineer - Krut AI
+###Full-Stack AI Engineer - Krut AI
 
-**2025 - Present**
-
-**[SkillMoksha](https://skillmoksha.ai/) - AI Hiring Platform**
+**Jun 2025 - Nov 2026**
 
 - Built the complete AI candidate pipeline end-to-end: resume upload, LLM scoring, and automated interview scheduling.
 - Reduced manual recruiter effort by **75%** and cut time-to-shortlist from days to hours.
@@ -54,9 +52,11 @@ These days, I am especially interested in making AI products **reliable, useful,
 - Reduced pipeline latency by **30%** and improved interview attendance by reducing no-shows by **40%**.
 - Designed scalable GraphQL APIs and REST endpoints with response times under **200ms**.
 
-**[Upsellity AI](https://www.upsellity.com/) - Production E-commerce SaaS**
+###Software Engineer Intern - Upsellity AI
 
-- Independently designed, built, and published a production Shopify App Store platform used by real merchants.
+**Jan 2025 - Jun 2025**
+
+- Engineered a production Shopify application with Node.js, building backend services, GraphQL APIs, database-driven business logic, and third-party integrations.
 - Built AI-powered upsell and cross-sell workflows to help merchants increase Average Order Value.
 - Developed backend services, Shopify integrations, a custom discount engine, and dynamic promotional blocks.
 - Integrated Shopify GraphQL Admin and Storefront APIs for real-time product catalog, discount metafield, and order sync.
